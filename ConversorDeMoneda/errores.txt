@@ -1,0 +1,35 @@
+Error al obtener la tasa de cambio: 404
+Error al obtener la tasa de cambio para USD a ESP
+Error al obtener la tasa de cambio: 404
+Error al obtener la tasa de cambio para ESP a AUD
+Error al obtener la tasa de cambio: 404
+Error al obtener la tasa de cambio para ESP a USD
+Error al obtener la tasa de cambio: 404
+Error al obtener la tasa de cambio para NLG a USD
+Error al obtener la tasa de cambio: 404
+Error al obtener la tasa de cambio para ESP a USD
+Error al obtener la tasa de cambio: 404 para ESD a USD
+	ConsultasDeAPI.obtenerTasaDeCambio(ConsultasDeAPI.java:42)
+	Menu.convertirMoneda(Menu.java:72)
+	Menu.mostrarMenu(Menu.java:30)
+	Principal.main(Principal.java:5)
+Error al obtener la tasa de cambio para ESD a USD
+Código de moneda no válido: ESD o USD
+Error al obtener la tasa de cambio: 404 para USD a ESP
+	ConsultasDeAPI.obtenerTasaDeCambio(ConsultasDeAPI.java:42)
+	Menu.convertirMoneda(Menu.java:72)
+	Menu.mostrarMenu(Menu.java:30)
+	Principal.main(Principal.java:5)
+Error al obtener la tasa de cambio para USD a ESP
+Error al obtener la tasa de cambio: 404 para USD a FIM
+	ConsultasDeAPI.obtenerTasaDeCambio(ConsultasDeAPI.java:42)
+	Menu.convertirMoneda(Menu.java:72)
+	Menu.mostrarMenu(Menu.java:30)
+	Principal.main(Principal.java:5)
+Error al obtener la tasa de cambio para USD a FIM
+Error al obtener la tasa de cambio: 404 para GBN a USD
+	ConsultasDeAPI.obtenerTasaDeCambio(ConsultasDeAPI.java:42)
+	Menu.convertirMoneda(Menu.java:72)
+	Menu.mostrarMenu(Menu.java:30)
+	Principal.main(Principal.java:5)
+Error al obtener la tasa de cambio para GBN a USD
